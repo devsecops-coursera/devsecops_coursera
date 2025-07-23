@@ -3,7 +3,7 @@ layout: page
 title: DevSecOps 101
 ---
 
-[Home](index.md) | [What is DevSecOps?](what-is-devsecops.md) | [Key Principles](key-principles.md) | [Tools & Technologies](tools-and-technologies.md) | [Best Practices](best-practices.md) | [Resources](resources.md) | [About Me](about.md)
+[Home]({{ site.baseurl }}/index.html) | [What is DevSecOps?]({{ site.baseurl }}/what-is-devsecops.html) | [Key Principles]({{ site.baseurl }}/key-principles.html) | [Tools & Technologies]({{ site.baseurl }}/tools-and-technologies.html) | [Best Practices]({{ site.baseurl }}/best-practices.html) | [Resources]({{ site.baseurl }}/resources.html) | [About Me]({{ site.baseurl }}/about.html)
 
 # Welcome to DevSecOps 101
 
@@ -11,9 +11,9 @@ DevSecOps is the practice of integrating security into every phase of the softwa
 
 Explore the sections below to get started!
 
-- [What is DevSecOps?](what-is-devsecops.md)
-- [Key Principles](key-principles.md)
-- [Tools & Technologies](tools-and-technologies.md)
-- [Best Practices](best-practices.md)
-- [Resources](resources.md)
-- [About Me](about.md)
+- [What is DevSecOps?]({{ site.baseurl }}/what-is-devsecops.html)
+- [Key Principles]({{ site.baseurl }}/key-principles.html)
+- [Tools & Technologies]({{ site.baseurl }}/tools-and-technologies.html)
+- [Best Practices]({{ site.baseurl }}/best-practices.html)
+- [Resources]({{ site.baseurl }}/resources.html)
+- [About Me]({{ site.baseurl }}/about.html)
