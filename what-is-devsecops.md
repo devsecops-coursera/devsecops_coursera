@@ -1,3 +1,8 @@
+---
+layout: page
+title: What is DevSecOps?
+---
+
 # What is DevSecOps?
 
 **DevSecOps** stands for Development, Security, and Operations. It’s a cultural and technical movement that aims to embed security practices into the DevOps process, making security a shared responsibility for everyone involved in software delivery.
