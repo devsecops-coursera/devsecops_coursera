@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 [Home](index.md) | [What is DevSecOps?](what-is-devsecops.md) | [Key Principles](key-principles.md) | [Tools & Technologies](tools-and-technologies.md) | [Best Practices](best-practices.md) | [Resources](resources.md) | [About Me](about.md)
 
 # About Me
